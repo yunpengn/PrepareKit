@@ -1,0 +1,7 @@
+language: java
+
+install:
+  - echo "Hello"
+
+script:
+  - echo "Hi"
